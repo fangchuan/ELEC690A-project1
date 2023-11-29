@@ -1,3 +1,7 @@
+
+1. downlaod `DiLiGenT-MV` dataset from http://www.cs.columbia.edu/CAVE/databases/multiview/diligent.html, put the data into the `pmsData` folder.
+
+
 # if there is some problem when loading the data, please revise the data path in mainBaseline.m:
 ```
 datadir = ['../project1/pmsData/', dataName];
